@@ -1,4 +1,3 @@
-
 <html>
 <head>Welcome to Tomcat<head>
 <body>
