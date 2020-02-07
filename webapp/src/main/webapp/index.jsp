@@ -1,4 +1,4 @@
-<html>
+ <html>
 <head>Welcome to Tomcat<head>
 <body>
 <h1> Hello, Welcome to Valaxy Technologies !!! </h1>
